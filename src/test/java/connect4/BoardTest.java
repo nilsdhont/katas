@@ -1,4 +1,4 @@
-package tilekata;
+package connect4;
 
 import org.junit.Before;
 import org.junit.Ignore;

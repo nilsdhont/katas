@@ -1,4 +1,4 @@
-package tilekata;
+package connect4;
 
 import java.awt.*;
 import java.util.Objects;
